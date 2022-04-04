@@ -11,6 +11,7 @@
 		E84A629427FB6939007A953C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84A629327FB6939007A953C /* ContentView.swift */; };
 		E84A629627FB6939007A953C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E84A629527FB6939007A953C /* Assets.xcassets */; };
 		E84A629927FB6939007A953C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E84A629827FB6939007A953C /* Preview Assets.xcassets */; };
+		E84A62A027FB6B84007A953C /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84A629F27FB6B84007A953C /* FavoriteModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E84A629327FB6939007A953C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E84A629527FB6939007A953C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E84A629827FB6939007A953C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E84A629F27FB6B84007A953C /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				E84A629327FB6939007A953C /* ContentView.swift */,
 				E84A629527FB6939007A953C /* Assets.xcassets */,
 				E84A629727FB6939007A953C /* Preview Content */,
+				E84A629F27FB6B84007A953C /* FavoriteModel.swift */,
 			);
 			path = FavoriteBook;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E84A62A027FB6B84007A953C /* FavoriteModel.swift in Sources */,
 				E84A629427FB6939007A953C /* ContentView.swift in Sources */,
 				E84A629227FB6939007A953C /* FavoriteBookApp.swift in Sources */,
 			);
