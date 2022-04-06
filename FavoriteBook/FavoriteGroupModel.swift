@@ -32,3 +32,5 @@ let killbill = FavoriteElement(name: "Kill Bill", imagename: "killbill", descrip
 
 let favoriteBands = FavoriteModel(title: "Favorite Bands", elements: [metallica,megadeth,ironmaiden])
 let favoriteMovies = FavoriteModel(title: "Favorite Movies", elements: [pulpfiction,thedarkknight,killbill])
+
+
